@@ -1,3 +1,7 @@
+<h1>Laravel Blog App</h1>
+<p>This project implements a laravel blog app, using a full crud aplication and authentication</p>
+
+<hr>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
